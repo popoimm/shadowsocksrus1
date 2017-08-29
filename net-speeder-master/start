@@ -1,0 +1,2 @@
+#!/bin/sh
+nohup /home/wwwroot/ssr/net-speeder-master/net_speeder venet0 "ip" >/dev/null 2>&1 &
