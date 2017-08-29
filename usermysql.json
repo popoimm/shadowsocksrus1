@@ -1,0 +1,13 @@
+{
+    "host": "db.legopay.com",
+    "port": 3306,
+    "user": "skybird",
+    "password": "Skybird1qaz",
+    "db": "skybird",
+    "node_id": 10,
+    "transfer_mul": 1.0,
+    "ssl_enable": 0,
+    "ssl_ca": "",
+    "ssl_cert": "",
+    "ssl_key": ""
+}
